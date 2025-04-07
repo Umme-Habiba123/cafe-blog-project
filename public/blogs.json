@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "mahiyaa",
+      "title": "Designing with Purpose: Mahiyaa’s Creative Journey",
+      "coverPhoto": "https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=800&q=80",
+      "description": "Mahiyaa's creative portfolio showcasing design and development work.",
+      "authorImage": "https://randomuser.me/api/portraits/women/44.jpg",
+      "authoreName": "Mahiyaa Rahman",
+      "postedDate": "2025-04-05",
+      "readingTime": "4 min read",
+      "hashtag": [
+        "beginners",
+        "es6"
+        
+      ]
+      
+    },
+    {
+      "id": 2,
+      "name": "techverse",
+      "title": "Tech Trends of 2025: What's Shaping the Future",
+      "coverPhoto": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "description": "Exploring the latest trends in technology and innovation.",
+      "authorImage": "https://randomuser.me/api/portraits/men/45.jpg",
+      "authoreName": "David Lin",
+      "postedDate": "2025-04-02",
+      "readingTime": "6 min read",
+      "hashtag": [
+        "beginners",
+        "coding",
+        "dev"
+      ]
+      
+    },
+    {
+      "id": 3,
+      "name": "artflow",
+      "title": "The Rise of Digital Artists in a Connected World",
+      "coverPhoto": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "description": "A platform for modern artists to share their digital art.",
+      "authorImage": "https://randomuser.me/api/portraits/women/50.jpg",
+      "authoreName": "Sophie Kim",
+      "postedDate": "2025-04-03",
+      "readingTime": "5 min read",
+      "hashtag": [
+        "beginners",
+        "es6"
+      ]
+     
+    },
+    {
+      "id": 4,
+      "name": "wanderlust",
+      "title": "Wanderlust Chronicles: Exploring Hidden Gems Worldwide",
+      "coverPhoto": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "description": "Travel diaries, tips, and photo blogs from around the world.",
+      "authorImage": "https://randomuser.me/api/portraits/men/30.jpg",
+      "authoreName": "Marco Rossi",
+      "postedDate": "2025-04-01",
+      "readingTime": "7 min read",
+      "hashtag": [
+        "beginners",
+         "coding",
+        "dev"
+      ]
+      
+    },
+    {
+      "id": 5,
+      "name": "codecamp",
+      "title": "Learning to Code: From Zero to Hero with CodeCamp",
+      "coverPhoto": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80",
+      "description": "An online community for learning coding and web development.",
+      "authorImage": "https://randomuser.me/api/portraits/women/65.jpg",
+      "authoreName": "Tania Lee",
+      "postedDate": "2025-03-30",
+      "readingTime": "8 min read",
+      "hashtag": [
+        "beginners",
+        "es6"
+      ]
+    }
+  ]
+  
